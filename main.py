@@ -1,3 +1,3 @@
 #define function woof
 def woof():
-    return "woof"
+    return "Woof"
